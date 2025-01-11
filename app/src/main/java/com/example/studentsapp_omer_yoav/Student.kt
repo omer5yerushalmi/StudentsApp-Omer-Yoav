@@ -1,4 +1,4 @@
-package com.example.studentsapp_omer_yoav
+package com.example.studentsapp
 
 import java.io.Serializable
 
