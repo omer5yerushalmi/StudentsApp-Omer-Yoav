@@ -3,7 +3,7 @@ package com.example.studentsapp_omer_yoav
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.studentsapp.databinding.ItemStudentBinding
+import com.example.studentsapp_omer_yoav.databinding.ItemStudentBinding
 
 class StudentAdapter(
     private val students: List<Student>,

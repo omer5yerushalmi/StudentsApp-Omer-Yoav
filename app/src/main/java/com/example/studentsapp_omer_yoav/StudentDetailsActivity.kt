@@ -3,7 +3,7 @@ package com.example.studentsapp_omer_yoav
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.studentsapp.databinding.ActivityStudentDetailsBinding
+import com.example.studentsapp_omer_yoav.databinding.ActivityStudentDetailsBinding
 
 class StudentDetailsActivity : AppCompatActivity() {
     private lateinit var binding: ActivityStudentDetailsBinding
