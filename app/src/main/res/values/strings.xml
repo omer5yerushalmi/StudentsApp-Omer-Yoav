@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StudentsApp-omer-yoav</string>
+    <string name="add_student">Add Student</string>
+    <string name="present">Present</string>
 </resources>
